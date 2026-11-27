@@ -1,0 +1,19 @@
+{
+ "sig0": 32.4,
+ "Qv": 21.7,
+ "bv": 30.0,
+ "sigma_limit": 7.0,
+ "siglimit_text": "7.0~MPa, about 18\\% above the maximum stress transmitted by the uniform design at high fidelity (5.95~MPa), so that moderate grading is admissible but strongly graded columns, whose thickest layers collapse at much higher stress, are not",
+ "ref": [
+  13.5,
+  -6.0,
+  0.0
+ ],
+ "ref_text": "$(\\mathrm{SEA},\\sigma_{\\mathrm{ip}},\\log_{10}\\sigma_{\\mathrm{plat}})=(13.5~\\mathrm{kJ\\,kg^{-1}},\\,6.0~\\mathrm{MPa},\\,0)$",
+ "sea_target": 14.5,
+ "cost_ratio": 5.93,
+ "lf_time_med": 88.38037752899982,
+ "hf_time_med": 524.3112863394999,
+ "kappa0": 1.084,
+ "sigma_limit_lf": 7.59
+}

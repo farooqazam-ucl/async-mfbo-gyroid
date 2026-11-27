@@ -1,0 +1,15 @@
+# Python 3.13 was used for the article (3.11 or later should work).
+# Versions are pinned to those used for the article.  If one is not available
+# for your Python version, remove the version numbers; BoTorch and GPyTorch are
+# the packages whose interfaces are most likely to change between versions.
+numpy==2.5.3
+scipy==1.18.1
+numba==0.68.1
+scikit-learn==1.9.1
+scikit-image==0.26.0   # Fig. 1 only
+matplotlib==3.11.2
+pyamg==5.4.1           # elastic homogenisation only
+torch==2.15.0
+gpytorch==1.15.2
+linear_operator==0.6.1
+botorch==0.18.1

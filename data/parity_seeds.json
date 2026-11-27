@@ -1,0 +1,82 @@
+{
+ "0": {
+  "SEA_HF": 0.56,
+  "SEA_LF": 0.729,
+  "ip_HF": 0.529,
+  "ip_LF": 0.566,
+  "logvar_HF": 0.839,
+  "logvar_LF": 0.791
+ },
+ "1": {
+  "SEA_HF": 0.495,
+  "SEA_LF": 0.737,
+  "ip_HF": 0.562,
+  "ip_LF": 0.448,
+  "logvar_HF": 0.841,
+  "logvar_LF": 0.75
+ },
+ "2": {
+  "SEA_HF": 0.364,
+  "SEA_LF": 0.76,
+  "ip_HF": 0.522,
+  "ip_LF": 0.448,
+  "logvar_HF": 0.841,
+  "logvar_LF": 0.765
+ },
+ "3": {
+  "SEA_HF": 0.338,
+  "SEA_LF": 0.455,
+  "ip_HF": 0.044,
+  "ip_LF": 0.58,
+  "logvar_HF": 0.82,
+  "logvar_LF": 0.771
+ },
+ "4": {
+  "SEA_HF": 0.204,
+  "SEA_LF": 0.162,
+  "ip_HF": 0.112,
+  "ip_LF": 0.806,
+  "logvar_HF": 0.813,
+  "logvar_LF": 0.741
+ },
+ "5": {
+  "SEA_HF": 0.386,
+  "SEA_LF": 0.635,
+  "ip_HF": 0.326,
+  "ip_LF": 0.659,
+  "logvar_HF": 0.84,
+  "logvar_LF": 0.769
+ },
+ "6": {
+  "SEA_HF": 0.609,
+  "SEA_LF": 0.81,
+  "ip_HF": 0.612,
+  "ip_LF": 0.463,
+  "logvar_HF": 0.823,
+  "logvar_LF": 0.785
+ },
+ "7": {
+  "SEA_HF": 0.462,
+  "SEA_LF": 0.78,
+  "ip_HF": 0.586,
+  "ip_LF": 0.517,
+  "logvar_HF": 0.851,
+  "logvar_LF": 0.793
+ },
+ "8": {
+  "SEA_HF": 0.296,
+  "SEA_LF": 0.716,
+  "ip_HF": 0.073,
+  "ip_LF": 0.645,
+  "logvar_HF": 0.95,
+  "logvar_LF": 0.84
+ },
+ "9": {
+  "SEA_HF": 0.46,
+  "SEA_LF": 0.783,
+  "ip_HF": 0.512,
+  "ip_LF": 0.466,
+  "logvar_HF": 0.843,
+  "logvar_LF": 0.761
+ }
+}

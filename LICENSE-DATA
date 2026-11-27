@@ -1,0 +1,9 @@
+The data in the folders data/ and runs/ of this repository (FE histories and
+metadata, processed results, campaign logs, emulator and design pool) are
+licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Farooq I. Azam and Abdullah Jamil
+
+The source code in code/ and the script reproduce.sh are licensed under the
+MIT Licence (see LICENSE).

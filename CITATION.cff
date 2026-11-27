@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article given under preferred-citation."
+type: software
+title: "Code and data for: Asynchronous multi-fidelity Bayesian optimisation with in-solver pruning for functionally graded gyroid energy absorbers"
+version: 1.0.0
+date-released: "2026-11-26"
+# Once the repository exists, add its address here, for example:
+# repository-code: "https://github.com/ACCOUNT/REPOSITORY"
+# After archiving release v1.0.0 on Zenodo, add its DOI here, for example:
+# doi: "10.5281/zenodo.1234567"
+authors:
+  - given-names: Farooq I.
+    family-names: Azam
+    affiliation: "Department of Mechanical Engineering, University College London, London, UK"
+  - given-names: Abdullah
+    family-names: Jamil
+    affiliation: "School of Mechanical and Manufacturing Engineering, National University of Sciences and Technology, Islamabad, Pakistan"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - Bayesian optimisation
+  - multi-fidelity surrogate modelling
+  - asynchronous parallel computing
+  - triply periodic minimal surfaces
+  - functionally graded lattices
+  - energy absorption
+  - explicit finite element method
+preferred-citation:
+  type: article
+  title: "Asynchronous multi-fidelity Bayesian optimisation with in-solver pruning for functionally graded gyroid energy absorbers"
+  authors:
+    - given-names: Farooq I.
+      family-names: Azam
+      affiliation: "Department of Mechanical Engineering, University College London, London, UK"
+    - given-names: Abdullah
+      family-names: Jamil
+      affiliation: "School of Mechanical and Manufacturing Engineering, National University of Sciences and Technology, Islamabad, Pakistan"
+  journal: "Structural and Multidisciplinary Optimization"
+  status: submitted
+  year: 2026
